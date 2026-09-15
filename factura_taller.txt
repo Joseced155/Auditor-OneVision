@@ -1,0 +1,11 @@
+FACTURA #00125
+
+Taller: AutoFix
+Vehículo: Toyota Corolla
+
+Pintura de puerta: $150
+Cambio de parachoques: $350
+Mano de obra: $100
+Mano de obra: $100
+
+TOTAL: $700
