@@ -1,0 +1,11 @@
+{
+    "pintura_puerta": {
+        "precio_maximo": 120
+    },
+    "cambio_parachoques": {
+        "precio_maximo": 350
+    },
+    "mano_obra": {
+        "precio_maximo": 80
+    }
+}
